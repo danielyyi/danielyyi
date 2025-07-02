@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://danielyyi.github.io" target="_blank">
-    <img src="[https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo=react&logo-color=white](https://tse3.mm.bing.net/th/id/OIP.dvsdexR4e6MCeO0xq1FtxQHaEf?rs=1&pid=ImgDetMain&o=7&rm=3)"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/danielyyi" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
@@ -49,6 +49,13 @@ Paste OSU Degree Audit to see relevant course info — makes schedule planning e
 
 ---
 
+### 📊 Bedwarstats.com  
+**React, Chart.js, Hypixel API**  
+Stat-tracking site for the Minecraft PvP mini-game Bedwars. Highlights player strengths and weaknesses with visual data.  
+🔗 [GitHub Repo](https://github.com/danielyyi/bedwarstats.com)
+
+---
+
 ## 🧰 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23555f?style=plastic&logo=javascript)
@@ -64,8 +71,20 @@ Paste OSU Degree Audit to see relevant course info — makes schedule planning e
 
 ---
 
+## 🧠 Leadership & Activities
+
+- **Hackathon Committee Member @ Humana**  
+  Organized and supported a hackathon for 70+ interns. Wrote rules, advised participants, and assisted judges.
+
+- **Vice President of DE&I @ Pi Sigma Epsilon**  
+  Led professional development efforts for 140+ members through panels, events, and cultural engagement.
+
+- **Co-leader @ Leukemia & Lymphoma Society (Student of the Year)**  
+  Raised $30,000+ through outreach, event planning, and sponsorships.
+
+---
+
 📬 **Let’s build something!**  
 📩 [daniel.youngsun@gmail.com](mailto:daniel.youngsun@gmail.com)  
 🌐 [danielyyi.com](https://danielyyi.com)  
 🔗 [linkedin.com/in/danielyyi](https://linkedin.com/in/danielyyi)
-
