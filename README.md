@@ -20,6 +20,13 @@
 
 ## 🚀 Projects
 
+### 🧠 TL;DR Chrome Extension  
+**JavaScript, Node, OpenAI API**  
+Browser extension that uses LLMs to summarize and explain any selected webpage text.  
+🔗 [GitHub Repo](https://github.com/danielyyi/tldr-extension)
+
+---
+
 ### 🎯 AutoIntelligence  
 **Python, React, OpenCV, MediaPipe**  
 AI tool to detect driver distraction via webcam. Integrated with a mock Lyft app for real-time safety ratings.  
@@ -32,13 +39,6 @@ AI tool to detect driver distraction via webcam. Integrated with a mock Lyft app
 **React, Node.js, MongoDB, GraphQL**  
 Fashion discovery platform connecting niche brands to trend-conscious shoppers. Features search, filter, and item upload.  
 🔗 [GitHub Repo](https://github.com/danielyyi/NewThreads)
-
----
-
-### 🧠 TL;DR Chrome Extension  
-**JavaScript, Node, OpenAI API**  
-Browser extension that uses LLMs to summarize and explain any selected webpage text.  
-🔗 [GitHub Repo](https://github.com/danielyyi/tldr-extension)
 
 ---
 
