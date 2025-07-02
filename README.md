@@ -1,7 +1,7 @@
-![Banner](images/banner.png)
+![Banner](images/banner.jpeg)
 
 <p align="center">
-  <a href="https://danielyyi.github.io" target="_blank">
+  <a href="https://danielyyi.com" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
   <a href="https://linkedin.com/in/danielyyi" target="_blank">
@@ -20,39 +20,52 @@
 
 ## 🚀 Projects
 
-### 🎯 AutoIntelligence
+### 🎯 AutoIntelligence  
 **Python, React, OpenCV, MediaPipe**  
-AI-powered tool to detect distracted driving. Integrated with mock Lyft app to assess driver safety.  
+AI tool to detect driver distraction via webcam. Integrated with a mock Lyft app for real-time safety ratings.  
 🏆 Runner-up — Hack OHI/O 2024 (Honda Track)  
 🔗 [GitHub Repo](https://github.com/danielyyi/AutoIntelligence)
 
 ---
 
-### 🛍️ NewThreads
+### 🛍️ NewThreads  
 **React, Node.js, MongoDB, GraphQL**  
-Marketplace designed for niche clothing brands to reach trend-savvy shoppers. Includes filters, search, and auth.  
+Fashion discovery platform connecting niche brands to trend-conscious shoppers. Features search, filter, and item upload.  
 🔗 [GitHub Repo](https://github.com/danielyyi/NewThreads)
 
 ---
 
 ### 🧠 TL;DR Chrome Extension  
 **JavaScript, Node, OpenAI API**  
-Summarize and explain selected text from any webpage using LLMs. Designed for news reading, research, and productivity.  
+Browser extension that uses LLMs to summarize and explain any selected webpage text.  
 🔗 [GitHub Repo](https://github.com/danielyyi/tldr-extension)
 
 ---
 
 ### 📘 Buckeye Course Guide  
 **React, JavaScript, OSU API**  
-Paste OSU Degree Audit to see relevant course info — makes schedule planning easier.  
+Simplifies class selection by parsing OSU Degree Audits and auto-linking course info.  
 🔗 [GitHub Repo](https://github.com/danielyyi/buckeye-course-guide)
 
 ---
 
-### 📊 Bedwarstats.com  
-**React, Chart.js, Hypixel API**  
-Stat-tracking site for the Minecraft PvP mini-game Bedwars. Highlights player strengths and weaknesses with visual data.  
-🔗 [GitHub Repo](https://github.com/danielyyi/bedwarstats.com)
+### 🕹️ Unity Game Projects  
+**Unity, C#**  
+A collection of original 2D and 3D games including a first-person room-clearing shooter and a full-featured Super Smash Bros parody with custom characters like Waluigi, Goku, and The Mandalorian. Built all animations, logic, and game mechanics from scratch.  
+🎮 [GitHub Repo](https://github.com/danielyyi) (Check pinned Unity repos)
+
+---
+
+## 🧠 Leadership & Impact
+
+- **Hackathon Committee @ Humana**  
+  Coordinated and judged internal hackathon for 70+ interns. Developed prompt guidelines and supported project teams.
+
+- **VP of DE&I @ Pi Sigma Epsilon**  
+  Spearheaded cultural programming for 140+ members. Brought in guest speakers and organized inclusive events.
+
+- **LLS Co-leader (Student of the Year)**  
+  Led a 12-person team and raised $30,000+ for cancer research through sponsorships, social media, and community events.
 
 ---
 
@@ -66,25 +79,15 @@ Stat-tracking site for the Minecraft PvP mini-game Bedwars. Highlights player st
 ![GraphQL](https://img.shields.io/badge/-GraphQL-52985b?style=plastic&logo=graphql)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-98bf53?style=plastic&logo=opencv)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-cdd148?style=plastic)
+![Unity](https://img.shields.io/badge/-Unity-555555?style=plastic&logo=unity)
 ![SQL](https://img.shields.io/badge/-SQL-bbb111?style=plastic&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-cbb148?style=plastic&logo=git)
 
 ---
 
-## 🧠 Leadership & Activities
-
-- **Hackathon Committee Member @ Humana**  
-  Organized and supported a hackathon for 70+ interns. Wrote rules, advised participants, and assisted judges.
-
-- **Vice President of DE&I @ Pi Sigma Epsilon**  
-  Led professional development efforts for 140+ members through panels, events, and cultural engagement.
-
-- **Co-leader @ Leukemia & Lymphoma Society (Student of the Year)**  
-  Raised $30,000+ through outreach, event planning, and sponsorships.
-
----
-
-📬 **Let’s build something!**  
+📬 **Let’s connect**  
 📩 [daniel.youngsun@gmail.com](mailto:daniel.youngsun@gmail.com)  
 🌐 [danielyyi.com](https://danielyyi.com)  
 🔗 [linkedin.com/in/danielyyi](https://linkedin.com/in/danielyyi)
+
+> “Code is a superpower — I’m on a mission to use it responsibly and creatively.”
