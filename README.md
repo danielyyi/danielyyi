@@ -1,61 +1,98 @@
-# 👋 Hi, I'm Daniel Yi
+<!-- Banner -->
+<img src="./images/banner.png" width="100%">
 
-🎓 Honors Computer Science Student @ The Ohio State University  
-🔬 Passionate about full-stack development, machine learning, and product management
+<!------------------------------------------------------SOCIAL LINKS------------------------------------------------------------>
+<p align="center">
+  <a href="https://danielyyi.github.io" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/danielyyi/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="mailto:daniel.youngsun@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=|&message=EMAIL&color=23555f&style=plastic&logo=gmail&logo-color=white"/>
+  </a>
+</p>
 
----
+<p align="center">
+  Honors CS Student @ The Ohio State University • Product-driven Developer • AI + System Design Enthusiast
+</p>
 
-## 🔨 Featured Projects
+<!------------------------------------------------------PROJECTS------------------------------------------------------------>
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h3 align="center">AutoIntelligence</h3>
+      <br />
+      <img src="./images/autointel.png" width="100%" alt="AutoIntelligence"/>
+      <br />
+      <p align="center">
+        <a href="https://github.com/danielyyi/AutoIntelligence" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>Python, React, OpenCV, MediaPipe</strong> – AI-powered system for detecting driver distraction. Built alongside a mock Lyft app. 🏆 Runner-up, 2024 Hack OHI/O (Honda Track).</p>
+    </td>
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **TL;DR Chrome Extension** | Summarizes and explains text on webpages using GenAI | `Python` `JavaScript` `Node` `Chrome API` `OpenAI` |
-| **AutoIntelligence** | Detects distracted driving behavior in real-time; 2024 Hack OHI/O Runner-Up | `Python` `React` `OpenCV` `MediaPipe` |
-| **NewThreads** | Marketplace for discovering niche fashion brands | `React` `Express` `MongoDB` `Node` `GraphQL` |
-| **Buckeye Course Guide** | Helps students plan classes via parsed audit data | `React` `JavaScript` `OSU API` |
-| **Youstagram** | A CRUD-powered social media app | `React` `Express` `MongoDB` `Node` |
-| **Bedwarstats.com** | PvP stat tracker for Minecraft players | `Chart.js` `React` `Hypixel API` |
-| **Unity Games** | Multiple projects, including an FPS and a parody of Smash Bros | `C#` `Unity` |
+    <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <h3 align="center">NewThreads</h3>
+      <br />
+      <img src="./images/newthreads.png" width="100%" alt="NewThreads"/>
+      <br />
+      <p align="center">
+        <a href="https://github.com/danielyyi/NewThreads" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>React, Node, MongoDB, GraphQL</strong> – A marketplace helping niche clothing brands gain exposure with search and style filters.</p>
+    </td>
+  </tr>
 
----
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" valign="top">
+      <h3 align="center">TL;DR Chrome Extension</h3>
+      <br />
+      <img src="./images/tldr.png" width="100%" alt="TL;DR Extension"/>
+      <br />
+      <p align="center">
+        <a href="https://github.com/danielyyi/tldr-extension" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>Chrome API, JavaScript, OpenAI</strong> – Summarize and explain any webpage text using GenAI. Explores LLM integration into browsers.</p>
+    </td>
 
-## 🧰 Tech Stack & Tools
+    <!-- Project 4 -->
+    <td width="50%" valign="top">
+      <h3 align="center">Buckeye Course Guide</h3>
+      <br />
+      <img src="./images/buckeye-guide.png" width="100%" alt="Buckeye Guide"/>
+      <br />
+      <p align="center">
+        <a href="https://github.com/danielyyi/buckeye-course-guide" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>React, OSU API</strong> – Simplifies class planning by parsing audit reports to search courses by requirements.</p>
+    </td>
+  </tr>
+</table>
 
-**Languages:** JavaScript, Python, C++, C#, Java, PHP, Assembly  
-**Frameworks & Libraries:** React, Node, Express, Next, GraphQL, OpenCV, MediaPipe  
-**Databases & Cloud:** MongoDB, SQL, AWS S3  
-**Tools:** Git, Unix/Linux, Power BI, Chrome API, Unity, Eclipse  
-**Areas of Focus:** Full-stack development, AI/ML, computer vision, backend systems
-
----
-
-## 💼 Experience
-
-- **Software Engineering Intern @ Humana** (Present)  
-- **Teaching Assistant @ Ohio State** (Fall 2024)  
-- **Product Management Intern @ GE Aerospace** (Summer 2022)
-- 
----
-
-## 💡 Leadership
-
-- **Hackathon Committee Member @ Humana**  
-  Organized 70+ intern participants; led rules, prompts, and judging logistics
-
-- **VP of DE&I @ Pi Sigma Epsilon**  
-  Fostered inclusive professional development for 140+ members
-
-- **LLS Student of the Year Candidate**  
-  Raised $30K+ for cancer research through events and partnerships
-
----
-
-## 🌐 Let’s Connect!
-
-📧 daniel.youngsun@gmail.com  
-💼 [LinkedIn](https://linkedin.com/in/danielyyi)  
-💻 [GitHub](https://github.com/danielyyi)
-
----
-
-_“Code is a superpower—and I’m on a mission to use it responsibly and creatively.”_
+<!------------------------------------------------------SKILLS------------------------------------------------------------>
+<h1 align="center">Technologies & Tools</h1>
+<p align="center">
+  <img src="https://img.shields.io/static/v1?label=|&message=JavaScript&color=23555f&style=plastic&logo=javascript"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=Python&color=285f65&style=plastic&logo=python"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=React&color=316c5e&style=plastic&logo=react"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=Node.js&color=3c7f5d&style=plastic&logo=node.js"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=MongoDB&color=4a935c&style=plastic&logo=mongodb"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=GraphQL&color=52985b&style=plastic&logo=graphql"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=OpenCV&color=98bf53&style=plastic&logo=opencv"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=MediaPipe&color=cdd148&style=plastic"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=SQL&color=bbb111&style=plastic&logo=postgresql"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=Git&color=cbb148&style=plastic&logo=git"/>
+</p>
