@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://danielyyi.github.io" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="[https://img.shields.io/static/v1?label=|&message=PORTFOLIO&color=23555f&style=plastic&logo=react&logo-color=white](https://tse3.mm.bing.net/th/id/OIP.dvsdexR4e6MCeO0xq1FtxQHaEf?rs=1&pid=ImgDetMain&o=7&rm=3)"/>
   </a>
   <a href="https://linkedin.com/in/danielyyi" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKEDIN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Honors CS Student @ The Ohio State University • Product-Driven Engineer • AI + Systems Enthusiast
+  Honors CS Student @ The Ohio State University • Full-Stack • AI • Product Management
 </p>
 
 ---
@@ -66,7 +66,6 @@ Paste OSU Degree Audit to see relevant course info — makes schedule planning e
 
 📬 **Let’s build something!**  
 📩 [daniel.youngsun@gmail.com](mailto:daniel.youngsun@gmail.com)  
-🌐 [danielyyi.github.io](https://danielyyi.github.io)  
+🌐 [danielyyi.com](https://danielyyi.com)  
 🔗 [linkedin.com/in/danielyyi](https://linkedin.com/in/danielyyi)
 
-> “Code is a superpower — I’m on a mission to use it responsibly and creatively.”
