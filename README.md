@@ -1,10 +1,7 @@
 # 👋 Hi, I'm Daniel Yi
 
 🎓 Honors Computer Science Student @ The Ohio State University  
-🔬 Passionate about full-stack development, machine learning, and building intelligent systems  
-🚀 Hackathon enthusiast | Product-minded engineer | Curious problem solver
-
-From Minecraft command blocks in elementary school to building AI-powered systems in college, I’ve always been driven by curiosity and creativity. I love crafting full-stack applications, exploring data-driven tools, and solving real-world problems through technology. Whether I’m mentoring peers, prototyping at hackathons, or collaborating on scalable systems, I bring meticulous attention to detail and a drive to innovate.
+🔬 Passionate about full-stack development, machine learning, and product management
 
 ---
 
@@ -13,7 +10,7 @@ From Minecraft command blocks in elementary school to building AI-powered system
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | **TL;DR Chrome Extension** | Summarizes and explains text on webpages using GenAI | `Python` `JavaScript` `Node` `Chrome API` `OpenAI` |
-| **AutoIntelligence** 🏆 | Detects distracted driving behavior in real-time; 2024 Hack OHI/O Runner-Up | `Python` `React` `OpenCV` `MediaPipe` |
+| **AutoIntelligence** | Detects distracted driving behavior in real-time; 2024 Hack OHI/O Runner-Up | `Python` `React` `OpenCV` `MediaPipe` |
 | **NewThreads** | Marketplace for discovering niche fashion brands | `React` `Express` `MongoDB` `Node` `GraphQL` |
 | **Buckeye Course Guide** | Helps students plan classes via parsed audit data | `React` `JavaScript` `OSU API` |
 | **Youstagram** | A CRUD-powered social media app | `React` `Express` `MongoDB` `Node` |
@@ -35,14 +32,9 @@ From Minecraft command blocks in elementary school to building AI-powered system
 ## 💼 Experience
 
 - **Software Engineering Intern @ Humana** (Present)  
-  Intern on Claims Administration Systems (CAS) team
-
 - **Teaching Assistant @ Ohio State** (Fall 2024)  
-  Led engineering students in MATLAB programming and technical writing
-
-- **Product Management Intern @ GE Aerospace** (Summer 2022)  
-  Built dashboards, improved documentation, and practiced Agile/Lean methods
-
+- **Product Management Intern @ GE Aerospace** (Summer 2022)
+- 
 ---
 
 ## 💡 Leadership
