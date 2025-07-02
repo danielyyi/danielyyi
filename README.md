@@ -52,7 +52,7 @@ Simplifies class selection by parsing OSU Degree Audits and auto-linking course 
 ### 🕹️ Unity Game Projects  
 **Unity, C#**  
 A collection of original 2D and 3D games including a first-person room-clearing shooter and a full-featured Super Smash Bros parody with custom characters like Waluigi, Goku, and The Mandalorian. Built all animations, logic, and game mechanics from scratch.  
-🎮 [GitHub Repo](https://github.com/danielyyi) (Check pinned Unity repos)
+🎮 [GitHub Repo](https://github.com/danielyyi/super-copyright-bros)
 
 ---
 
@@ -89,5 +89,3 @@ A collection of original 2D and 3D games including a first-person room-clearing 
 📩 [daniel.youngsun@gmail.com](mailto:daniel.youngsun@gmail.com)  
 🌐 [danielyyi.com](https://danielyyi.com)  
 🔗 [linkedin.com/in/danielyyi](https://linkedin.com/in/danielyyi)
-
-> “Code is a superpower — I’m on a mission to use it responsibly and creatively.”
