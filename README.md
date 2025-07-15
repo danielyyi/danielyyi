@@ -23,7 +23,7 @@
 ### 🧠 TL;DR Chrome Extension  
 **JavaScript, Node, OpenAI API**  
 Browser extension that uses LLMs to summarize and explain any selected webpage text.  
-🔗 [GitHub Repo](https://github.com/danielyyi/tldr-extension)
+🔗 [GitHub Repo](https://github.com/danielyyi/tldr-chrome-extension)
 
 ---
 
@@ -31,7 +31,7 @@ Browser extension that uses LLMs to summarize and explain any selected webpage t
 **Python, React, OpenCV, MediaPipe**  
 AI tool to detect driver distraction via webcam. Integrated with a mock Lyft app for real-time safety ratings.  
 🏆 Runner-up — Hack OHI/O 2024 (Honda Track)  
-🔗 [GitHub Repo](https://github.com/danielyyi/AutoIntelligence)
+🔗 [GitHub Repo](https://github.com/danielyyi/HackOHI-O-2024)
 
 ---
 
@@ -45,7 +45,6 @@ Fashion discovery platform connecting niche brands to trend-conscious shoppers. 
 ### 📘 Buckeye Course Guide  
 **React, JavaScript, OSU API**  
 Simplifies class selection by parsing OSU Degree Audits and auto-linking course info.  
-🔗 [GitHub Repo](https://github.com/danielyyi/buckeye-course-guide)
 
 ---
 
