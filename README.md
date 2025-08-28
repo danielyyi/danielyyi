@@ -60,8 +60,8 @@ A collection of original 2D and 3D games including a first-person room-clearing 
 - **Hackathon Committee @ Humana**  
   Coordinated and judged internal hackathon for 70+ interns. Developed prompt guidelines and supported project teams.
 
-- **VP of DE&I @ Pi Sigma Epsilon**  
-  Spearheaded cultural programming for 140+ members. Brought in guest speakers and organized inclusive events.
+- **VP @ Pi Sigma Epsilon**  
+  Spearheading programming for 140+ members. Brought in guest speakers and organized inclusive events.
 
 - **LLS Co-leader (Student of the Year)**  
   Led a 12-person team and raised $30,000+ for cancer research through sponsorships, social media, and community events.
