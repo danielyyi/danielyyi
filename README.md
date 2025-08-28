@@ -1,4 +1,4 @@
-![Banner](images/petosky.jpeg)
+![Banner](images/petosky.jpg)
 
 <p align="center">
   <a href="https://danielyyi.com" target="_blank">
