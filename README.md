@@ -69,7 +69,7 @@ A collection of original 2D and 3D games including a first-person room-clearing 
 ---
 
 ## 🧰 Tech Stack
-
+![Java](https://img.shields.io/badge/-Java-F7DF1E?style=plastic&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23555f?style=plastic&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-285f65?style=plastic&logo=python)
 ![React](https://img.shields.io/badge/-React-316c5e?style=plastic&logo=react)
