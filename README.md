@@ -1,11 +1,12 @@
 ## Hi There! 👋 My name is Daniel
 
-```java
-public class [Your Name] {
-    public int age = [Your Age];
-    public String[] traits = new String[] { "[trait1]", "[trait2]", "[trait3]" };
-    public String[] hobbies = new String[] { "[hobby1]", "[hobby2]", "[hobby3]" };
-}```
+### 📍 What Am I Doing?
+[Leetcode]
+
+[Current activity 2]
+
+[Current activity 3]
+
 
 😏 Other Accounts / Links
 Other accounts or professional links you want to share:
@@ -25,14 +26,7 @@ Experience:
 
 You can view a few of my projects here on my GitHub page!
 
-📍 What Am I Doing?
-📋 Currently I am:
 
-[Current activity 1]
-
-[Current activity 2]
-
-[Current activity 3]
 
 🧰 Tech Stack
 Web Development: [List your web dev skills]
