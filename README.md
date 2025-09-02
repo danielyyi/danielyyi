@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Honors CS Student @ The Ohio State University • Full-Stack • AI • Product Development
+  Honors CS Student @ The Ohio State University • Web Development • Software Engineering • AI Engineer •  Product Management
 </p>
 
 ---
