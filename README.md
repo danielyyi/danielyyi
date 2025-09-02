@@ -24,9 +24,9 @@
 
 ## 🚀 Projects
 
-You can view the source code for all my projects here!
-More information about my projects can be found on my personal website:
-[danielyyi.com](https://danielyyi.com)
+- You can view the source code for all my projects on this GitHub
+- For an overview of my featured projects check out my portfolio:
+- [danielyyi.com](https://danielyyi.com)
 
 ---
 
