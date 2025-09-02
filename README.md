@@ -1,4 +1,4 @@
-# Hi There! 👋 My name is [Your Name]
+## Hi There! 👋 My name is [Your Name]
 
 📮 **About Me**  
 [Write a short personal introduction here, e.g., your background, interests, and what you’re passionate about.]
