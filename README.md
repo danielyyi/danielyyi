@@ -1,23 +1,33 @@
 ## Hi There! 👋 My name is Daniel
 
-
+```java
+public class Daniel
+{
+  private int age = 20;
+  public String[] traits = new String[] { "creative", "curious", "driven" };
+  public String[] hobbies = new String[] { "Coding!", "Soccer", "Guitar", "Basketball", "Cooking", "Sleeping" };
+}
+```
 
 ### 📍 What Am I Up To?
 - Currently I am...
-  - Doing research for the Imageomics Lab
-  - Serving as Vice President of Pi Sigma Epsilon
-  - Grinding Leetcode
-  - Being studious
+  - Doing research for the Imageomics Lab 🔬 
+  - Serving as Vice President of Pi Sigma Epsilon 🎓
+  - Grinding Leetcode 💻
+  - Being studious 📚
 
 ### 💼 Credentials
 - Work:
-  - Software Engineer Intern at Humana
-  - Teaching Assistant for Fundamentals of Engineering
-  - Product Management Intern at GE Aerospace
+  - Software Engineer Intern at Humana 🩺
+  - Teaching Assistant for Fundamentals of Engineering 👨‍🏫
+  - Product Management Intern at GE Aerospace 🛠️
 - Projects:
   - You can view the code for some my projects here on my GitHub page!
   - Check out my personal website for more:
     - [www.danielyyi.com](https://www.danielyyi.com/)
+- Other stuff:
+  - Won 2nd Place at Hack OHI/O 2024 (1400+ registrants)🏆
+  - Oracle OCI AI Foundations Certification
    
 ### 🧰 Tech Stack
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
