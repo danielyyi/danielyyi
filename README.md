@@ -1,5 +1,12 @@
 ## Hi There! 👋 My name is Daniel
 
+public class DanielYi {
+  private int age = 20;
+  public String[] traits = { "Curious", "Analytical", "Collaborative" };
+  public String[] hobbies = { "Coding", "Ultimate Frisbee", "Chess", "Wrestling", "Sleeping" };
+}
+
+
 ### 📍 What Am I Up To?
 - Currently I am...
   - Doing research for the Imageomics Lab
