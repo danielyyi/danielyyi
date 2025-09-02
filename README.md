@@ -22,7 +22,7 @@ public class Daniel
   - Product Management Intern at GE Aerospace 🛠️
 - Projects:
   - You can view the code for some of my projects here on my GitHub page!
-  - ### Check out my personal website for featured projects and other stuff: [www.danielyyi.com](https://www.danielyyi.com/) 🌐🌐🌐
+  - **Check out my personal website for featured projects and other stuff: [www.danielyyi.com](https://www.danielyyi.com/) 🌐🌐🌐**
 - More:
   - Won 2nd Place at Hack OHI/O 2024 (1400+ registrants)🏆
   - Recently attained Oracle OCI AI Foundations Certification 💡
