@@ -4,7 +4,7 @@
 public class Daniel
 {
   private int age = 20;
-  public String[] traits = new String[] { "creative", "curious", "driven" };
+  public String[] traits = new String[] { "creative", "curious", "driven", "tall" };
   public String[] hobbies = new String[] { "Coding!", "Soccer", "Guitar", "Basketball", "Cooking", "Sleeping" };
 }
 ```
