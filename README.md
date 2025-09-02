@@ -24,54 +24,9 @@
 
 ## 🚀 Projects
 
-### 🧠 TL;DR Chrome Extension  
-**JavaScript, Node, OpenAI API**  
-Browser extension that uses LLMs to summarize and explain any selected webpage text.  
-🔗 [GitHub Repo](https://github.com/danielyyi/tldr-chrome-extension)
-
----
-
-### 🎯 AutoIntelligence  
-**Python, React, OpenCV, MediaPipe**  
-AI tool to detect driver distraction via webcam. Integrated with a mock Lyft app for real-time safety ratings.  
-🏆 Runner-up — Hack OHI/O 2024 (Honda Track) (1400+ registrants) 
-🔗 [GitHub Repo](https://github.com/danielyyi/HackOHI-O-2024)
-
----
-
-### 🛍️ NewThreads  
-**React, Node.js, Express, MongoDB, GraphQL**  
-Fashion discovery platform connecting niche brands to trend-conscious shoppers. Features search, filter, and item upload.  
-🔗 [GitHub Repo](https://github.com/danielyyi/NewThreads)
-
----
-
-### 📸 Youstagram
-**React, Node.js, Express, MongoDB, GraphQL**
-Instagram-like social media site with full CRUD functionality: customize posts, leave comments, and search for users.
-🔗 [GitHub Repo](https://github.com/danielyyi/Youstagram)
-
----
-
-### 📘 Buckeye Course Guide  
-**React, JavaScript, OSU API**  
-Simplifies class selection by parsing OSU Degree Audits and auto-linking course info.  
-🔗 [YouTube Link](https://www.youtube.com/watch?v=OLZQMVueu0M)
-
----
-
-### 📊 Bedwarstats.com
-**React, Chart.js, Hypixel API, PlayerDB API, Craftatar API**
-Stat-tracking website for a Minecraft PvP mini-game called "Bedwars". Provides insights into player strengths and weaknesses.
-🔗 [GitHub Repo](https://github.com/danielyyi/Hypixel-Bedwars-Tracker)
-
----
-
-### 🕹️ Unity Game Projects  
-**Unity, C#**  
-A collection of original 2D and 3D games including a first-person room-clearing shooter and a full-featured Super Smash Bros parody. Built out all animations, logic, and game mechanics with Unity.  
-🔗 [GitHub Repo](https://github.com/danielyyi/super-copyright-bros)
-🔗 [GitHub Repo](https://github.com/danielyyi/mac)
+You can view the source code for all my projects here!
+More information about my projects can be found on my personal website:
+[danielyyi.com](https://danielyyi.com)
 
 ---
 
