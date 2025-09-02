@@ -18,7 +18,7 @@
     - [www.danielyyi.com](https://www.danielyyi.com/)
    
 ### 🧰 Tech Stack
-## Web Development
+#### Web Development
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23555f?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
