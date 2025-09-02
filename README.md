@@ -21,12 +21,11 @@ public class Daniel
   - Teaching Assistant for Fundamentals of Engineering 👨‍🏫
   - Product Management Intern at GE Aerospace 🛠️
 - Projects:
-  - You can view the code for some my projects here on my GitHub page!
-  - Check out my personal website for more:
-    - [www.danielyyi.com](https://www.danielyyi.com/)
+  - You can view the code for some of my projects here on my GitHub page!
+  - Check out my personal website for more: [www.danielyyi.com](https://www.danielyyi.com/) 🌐🌐🌐
 - Other stuff:
   - Won 2nd Place at Hack OHI/O 2024 (1400+ registrants)🏆
-  - Oracle OCI AI Foundations Certification
+  - Recently attained Oracle OCI AI Foundations Certification 💡
    
 ### 🧰 My Tech
 ![Java](https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white)
