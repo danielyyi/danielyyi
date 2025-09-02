@@ -30,37 +30,53 @@ Browser extension that uses LLMs to summarize and explain any selected webpage t
 ### 🎯 AutoIntelligence  
 **Python, React, OpenCV, MediaPipe**  
 AI tool to detect driver distraction via webcam. Integrated with a mock Lyft app for real-time safety ratings.  
-🏆 Runner-up — Hack OHI/O 2024 (Honda Track)  
+🏆 Runner-up — Hack OHI/O 2024 (Honda Track) (1400+ registrants) 
 🔗 [GitHub Repo](https://github.com/danielyyi/HackOHI-O-2024)
 
 ---
 
 ### 🛍️ NewThreads  
-**React, Node.js, MongoDB, GraphQL**  
+**React, Node.js, Express, MongoDB, GraphQL**  
 Fashion discovery platform connecting niche brands to trend-conscious shoppers. Features search, filter, and item upload.  
 🔗 [GitHub Repo](https://github.com/danielyyi/NewThreads)
+
+---
+
+### 📸 Youstagram
+**React, Node.js, Express, MongoDB, GraphQL**
+Instagram-like social media site with full CRUD functionality: customize posts, leave comments, and search for users.
+🔗 [GitHub Repo](https://github.com/danielyyi/Youstagram)
 
 ---
 
 ### 📘 Buckeye Course Guide  
 **React, JavaScript, OSU API**  
 Simplifies class selection by parsing OSU Degree Audits and auto-linking course info.  
+🔗 [YouTube Link](https://www.youtube.com/watch?v=OLZQMVueu0M)
+
+---
+
+### 📊 Bedwarstats.com
+**React, Chart.js, Hypixel API, PlayerDB API, Craftatar API**
+Stat-tracking website for a Minecraft PvP mini-game called "Bedwars". Provides insights into player strengths and weaknesses.
+🔗 [GitHub Repo](https://github.com/danielyyi/Hypixel-Bedwars-Tracker)
 
 ---
 
 ### 🕹️ Unity Game Projects  
 **Unity, C#**  
-A collection of original 2D and 3D games including a first-person room-clearing shooter and a full-featured Super Smash Bros parody with custom characters like Waluigi, Goku, and The Mandalorian. Built all animations, logic, and game mechanics from scratch.  
-🎮 [GitHub Repo](https://github.com/danielyyi/super-copyright-bros)
+A collection of original 2D and 3D games including a first-person room-clearing shooter and a full-featured Super Smash Bros parody. Built out all animations, logic, and game mechanics with Unity.  
+🔗 [GitHub Repo](https://github.com/danielyyi/super-copyright-bros)
+🔗 [GitHub Repo](https://github.com/danielyyi/mac)
 
 ---
 
 ## 🧠 Leadership & Impact
 
 - **Hackathon Committee @ Humana**  
-  Coordinated and judged internal hackathon for 70+ interns. Developed prompt guidelines and supported project teams.
+  Coordinated and judged internal hackathon for 70+ interns. Developed prompt guidelines, met with associates, and supported project teams.
 
-- **VP @ Pi Sigma Epsilon**  
+- **Vice President @ Pi Sigma Epsilon**  
   Spearheading programming for 140+ members. Brought in guest speakers and organized inclusive events.
 
 - **LLS Co-leader (Student of the Year)**  
@@ -69,7 +85,7 @@ A collection of original 2D and 3D games including a first-person room-clearing 
 ---
 
 ## 🧰 Tech Stack
-![Java](https://img.shields.io/badge/-Java-F7DF1E?style=plastic&logo=java)
+![Java](https://img.shields.io/badge/Java-E34F26?style=plastic&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-23555f?style=plastic&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-285f65?style=plastic&logo=python)
 ![React](https://img.shields.io/badge/-React-316c5e?style=plastic&logo=react)
