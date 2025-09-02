@@ -1,7 +1,11 @@
-## Hi There! 👋 My name is [Your Name]
+## Hi There! 👋 My name is Daniel
 
-📮 **About Me**  
-[Write a short personal introduction here, e.g., your background, interests, and what you’re passionate about.]
+```java
+public class [Your Name] {
+    public int age = [Your Age];
+    public String[] traits = new String[] { "[trait1]", "[trait2]", "[trait3]" };
+    public String[] hobbies = new String[] { "[hobby1]", "[hobby2]", "[hobby3]" };
+}```
 
 😏 Other Accounts / Links
 Other accounts or professional links you want to share:
