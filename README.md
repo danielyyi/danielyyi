@@ -13,7 +13,11 @@
 </p>
 
 <p align="center">
-  Honors CS Student @ The Ohio State University • Web Development • Software Engineering • AI Engineer •  Product Management
+  Honors CS Student @ The Ohio State University
+  
+</p>
+<p align="center">
+  Web Development • Software Engineering • AI Engineer •  Product Management
 </p>
 
 ---
