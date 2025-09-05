@@ -5,7 +5,7 @@ public class Daniel
 {
   private int age = 20;
   public String[] traits = new String[] { "creative", "curious", "driven", "tall" };
-  public String[] hobbies = new String[] { "Matcha", "Clairo", "Reading", "Jean Shorts", "Cooking", "Self Care Nights <3" };
+  public String[] hobbies = new String[] { "Matcha", "Clairo", "Reading", "Cooking" };
 }
 ```
 ### 📍 What Am I Up To?
