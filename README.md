@@ -3,7 +3,7 @@
 ```java
 public class Daniel
 {
-  private int age = 20;
+  private int age = 21;
   public String[] traits = new String[] { "creative", "curious", "driven", "tall" };
   public String[] hobbies = new String[] { "Matcha", "Clairo", "Reading", "Cooking" };
 }
@@ -17,6 +17,7 @@ public class Daniel
 
 ### 💼 Credentials
 - Work:
+  - Software Engineer Intern at Capital One 🌐
   - Software Engineer Intern at Humana 🩺
   - Teaching Assistant for Fundamentals of Engineering 👨‍🏫
   - Product Management Intern at GE Aerospace 🛠️
