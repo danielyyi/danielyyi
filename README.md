@@ -10,8 +10,8 @@ public class Daniel
 ```
 ### 📍 What Am I Up To?
 - Currently I am...
+  - Completing Jira tickets at Capital One in McLean, VA 🌐
   - Doing research for the Imageomics Lab 🔬 
-  - Serving as Vice President of Pi Sigma Epsilon 🎓
   - Grinding Leetcode 💻
   - Being studious 📚
 
@@ -61,3 +61,4 @@ public class Daniel
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Cursor](https://img.shields.io/badge/-Cursor-0A84FF?style=for-the-badge&logo=cursor&logoColor=white) 
 ![Windsurf](https://img.shields.io/badge/-Windsurf-4B9CD3?style=for-the-badge&logo=wind&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
