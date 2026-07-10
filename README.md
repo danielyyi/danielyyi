@@ -11,7 +11,8 @@ public class Daniel
 ### 📍 What Am I Up To?
 - Currently I am...
   - Completing Jira tickets at Capital One in McLean, VA 🌐
-  - Doing research for the Imageomics Lab 🔬 
+  - Doing research for the Imageomics Lab 🔬
+  - Playing lead guitar for my band 🎸
   - Grinding Leetcode 💻
   - Being studious 📚
 
